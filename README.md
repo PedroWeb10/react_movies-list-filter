@@ -1,4 +1,4 @@
-# Movies list - Filter
+#
 
 The `App`contains a `MoviesList` and a search field. Implement filtering using a `useState` hook.
 
